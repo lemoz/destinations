@@ -1,0 +1,226 @@
+[
+    {
+        "sourceId": "1",
+        "sourceMedium": "paid-search-ad",
+        "sourceProperties": {
+            "Ad_Copy": {
+                "Headline": "30% Off Sitewide - The #1 Skincare Tool of 2023",
+                "Description": "New year, new glow. Elevate your skincare game with Solawave skincare products. Shop Now. Step into the new year with confidence. Upgrade your skincare routine with Solawave. Better Skin in 2 Weeks. Free US Shipping. 30-Day Trial..."
+              },
+              "Key_Offers": {
+                "Discount": "30% Off Sitewide",
+                "Promotion_Period": "New Year Offer",
+                "Shipping": "Free US Shipping",
+                "Trial_Period": "30-Day Trial"
+              },
+              "Call_To_Action": {
+                "Primary_CTA": "Shop Now",
+                "Secondary_CTA": [
+                  "See Before & Afters",
+                  "Learn Benefits Of Red Light"
+                ]
+              },
+              "Product_Highlights": {
+                "Efficacy": "Better Skin in 2 Weeks",
+                "Technology": "Red Light Therapy"
+              },
+              "Customer_Engagement": {
+                "Testimonials": "Don't Just Take Our Word For It, See Real Customer Results.",
+                "Education": "Learn How Red Light Therapy Works."
+              },
+              "Imagery": {
+                "Subject": "Woman using the Solawave skincare tool",
+                "Visual_Appeal": "Highlighting the product in use to showcase ease and effectiveness",
+                "Emotional_Cue": "Confident appearance of the subject implying the effectiveness of the product"
+              }
+        },
+        "destinationProperties": {
+            "headline": "",
+            "text": ""
+        }
+    },
+    {
+        "sourceId": "2",
+        "sourceMedium": "paid-social-ad",
+        "sourceProperties": {
+            "Headline": "Bye Acne: 3-Minute Pimple Spot Treatment",
+            "Description_Above_Image": "Whether your breakouts are caused by stress, hormones or a dirty pillowcase, our Bye Acne 3-Min Pimple Spot Treatment helps to tackle all your pesky pimples. 👊 This small, but mighty device uses Red Light and Blue Therapy to fight acne causing bacteria, while also reducing the inflammation and redness.",
+            "Description": "FDA-cleared blue light therapy acne spot treatment that effectively targets & treats mild-to-moderate acne in...",
+            "CTA_Text": "Shop now",
+            "image_url": "https://i.imgur.com/iLKhS7R.png",
+            "image_description": {
+                "Visual_Composition": {
+                    "Orientation": "Vertical",
+                    "Platform_Suitability": "Social media platforms, online advertisements",
+                    "Headline": "Different Breakout Areas & What They Mean",
+                    "Subheading": "Forehead + Nose: stress, fatigue + touching your face. Hairline: hair products clogging pores. Cheeks: dirty pillowcase + phone spreading bacteria. Chin + Jawline: hormonal imbalance + gut health.",
+                    "Color_Use": "Soft pastel background with a gradient effect, giving a calming and clean aesthetic",
+                    "Text_Readability": "Contrasting colors for text to ensure legibility against the background"
+                  },
+                  "Imagery": {
+                    "Subject": "Young woman with clear skin smiling and using the Solawave device on her cheek",
+                    "Action": "Demonstrating the use of the Solawave device, indicating ease and comfort of use",
+                    "Expression": "The subject's smiling expression suggests satisfaction and happiness with the product"
+                  },
+                  "Branding_Elements": {
+                    "Logo_Display": "Solawave logo at the top center of the image, aligning with the brand's identity",
+                    "Product_Focus": "Clear visual of the Solawave skincare device in use, emphasizing its design and functionality",
+                    "Designation": "Informative annotations pointing out different facial areas prone to breakouts"
+                  },
+                  "Design_and_Textual_Elements": {
+                    "Informational_Graphics": "Annotations connected to facial areas provide insights into what causes breakouts in those specific zones",
+                    "Layout": "Balanced with text and imagery to provide both information and visual appeal"
+                  },
+                  "Emotional_Appeal_and_Targeting": {
+                    "Skincare_Concerns_Addressment": "Addresses common skin concerns, implying the product's effectiveness in dealing with acne",
+                    "User_Demographic": "Image focuses on a young, diverse audience concerned with skincare",
+                    "Lifestyle_Imagery": "Depicts an everyday, relatable scenario that targets individuals interested in personal skincare"
+                  }
+              }
+        },
+        "destinationProperties": {
+            "headline": "",
+            "text": ""
+        }
+    },
+    {
+        "sourceId": "3",
+        "sourceMedium": "internal-blog",
+        "sourceProperties": {
+            "Title": "Revolutionize Your Skincare Regimen",
+            "Subheadline": "Experience the 4-in-1 Skincare Innovation with Solawave Wand",
+            "Introduction": {
+              "Offer": "Exclusive Amazon Prime Day Sale",
+              "Appeal": "Join the Skincare Revolution with Vogue-Approved Technology"
+            },
+            "Product_Details": {
+              "Name": "Solawave LED Light Therapy Wand",
+              "Description": "A versatile skincare tool that combines red light therapy, microcurrent, facial massage, and therapeutic warmth to transform your skin care routine.",
+              "Benefits": [
+                "Brightens skin",
+                "Smooths fine lines",
+                "Evens out dark spots"
+              ],
+              "Usage": "Recommended use of five minutes, three times per week for optimal results."
+            },
+            "Features": {
+              "Portable": "Ultra-portable design for skincare on-the-go.",
+              "Affiliate_Link_Disclaimer": "Purchase through our links may earn Vogue a commission.",
+              "Celebrity_Use": [
+                "Debby Ryan",
+                "Vanessa Hudgens",
+                "Sydney Sweeney",
+                "Jennifer Coolidge",
+                "Megan Fox",
+                "Reese Witherspoon"
+              ]
+            },
+            "Upgraded_Version": {
+              "Name": "Radiant Renewal Skincare Wand",
+              "Enhancements": "Features twice the red light therapy output, stronger microcurrent, and user-friendly design upgrades like water resistance and enhanced wand head rotation."
+            },
+            "Pricing": {
+              "Original_Advanced_Facial_Wand_Bundle": {
+                "Price": "$140",
+                "Sale_Price": "$71"
+              },
+              "Radiant_Renewal_Wand_and_Serum_Bundle": {
+                "Price": "$189",
+                "Sale_Price": "$103"
+              }
+            },
+            "Testimonials": {
+              "Author": "Kiana Murden",
+              "Quote": "My skin always appears more luminous and supple after using the Solawave wand."
+            },
+            "How_To_Use": {
+              "Steps": [
+                "Start with a cleansed face",
+                "Apply water-based serums",
+                "Use the activating serum for the wand",
+                "Glide the wand across the face in an upward direction",
+                "Finish with creams and thicker products"
+              ],
+              "Tip": "The wand activates when in contact with hydrated skin."
+            },
+            "Images": [
+                {
+                  "Visual_Composition": {
+                    "Orientation": "Horizontal",
+                    "Platform_Suitability": "Web and social media platforms",
+                    "Background": "Neutral-toned bathroom setting enhancing the focus on the subject",
+                    "Subject_Position": "Center frame with direct engagement to the viewer"
+                  },
+                  "Imagery": {
+                    "Subject": "Adult woman demonstrating the use of the Solawave wand on her face",
+                    "Action": "Gently holding the wand to the cheek, indicative of the product's use",
+                    "Expression": "Soft focus gaze imparting a sense of self-care ritual"
+                  },
+                  "Product_Display": {
+                    "Item_In_Use": "Solawave wand",
+                    "Visibility": "Clear view of the product design and color",
+                    "Suggested_Use": "Facial application highlighting the ease and ergonomic design of the wand"
+                  },
+                  "Emotional_Appeal": {
+                    "Sentiment": "Invokes the personal benefit and simplicity of use",
+                    "Ambiance": "Relaxed setting suggesting a spa-like experience at home"
+                  },
+                  "File_url": "https://assets.vogue.com/photos/637bd45e93ec086b7454dcb3/master/w_2240,c_limit/00-story%20(31).gif"
+                },
+                {
+                  "Visual_Composition": {
+                    "Orientation": "Vertical",
+                    "Platform_Suitability": "Product detail pages, e-commerce listings",
+                    "Background": "Simple, clutter-free background to emphasize the product",
+                    "Color_Palette": "Soft pastel colors convey a gentle, therapeutic product nature"
+                  },
+                  "Imagery": {
+                    "Product_Focus": "Solawave wand and Renew Complex Activating Serum",
+                    "Detailing": "Clearly showcases product features and packaging",
+                    "Branding": "Visible brand name for quick identification"
+                  },
+                  "Design_and_Textual_Elements": {
+                    "Product_Features": "Highlighted features such as 'Blue Tansy' and 'Hyaluronic Acid' listed on the serum bottle",
+                    "Product_Benefits": "Conveys the activating properties of the serum for use with the device"
+                  },
+                  "Emotional_Appeal": {
+                    "Perceived_Efficacy": "Product presentation suggests professional-grade skincare treatment",
+                    "Consumer_Asperation": "Targets consumers looking for a comprehensive skincare routine"
+                  },
+                  "File_url": "https://assets.vogue.com/photos/65256eeb3fd9d4359e21fb98/3:4/w_640,c_limit/slide_8.jpg"
+                },
+                {
+                  "Visual_Composition": {
+                    "Orientation": "Vertical",
+                    "Platform_Suitability": "E-commerce and direct marketing campaigns",
+                    "Background": "Clean, bright backdrop for high contrast and focus",
+                    "Product_Arrangement": "Strategically placed for aesthetic appeal and to display the product's slim profile"
+                  },
+                  "Imagery": {
+                    "Product_Focus": "Radiant Renewal Skincare Wand",
+                    "Detailing": "Depicts the product's sleek design, color, and size in a standing position",
+                    "Secondary_Element": "Accompanying serum bottle suggests a complete skincare system"
+                  },
+                  "Branding_Elements": {
+                    "Logo_Display": "Prominent Solawave logo for brand reinforcement",
+                    "Tagline": "Inclusion of 'Renew Complex' to suggest the product's rejuvenating effects"
+                  },
+                  "Design_and_Textual_Elements": {
+                    "Clarity": "High-resolution imagery to capture texture and color accurately",
+                    "Marketing_Copy": "Minimalistic to keep the focus on the product's elegance and simplicity"
+                  },
+                  "Emotional_Appeal": {
+                    "Desirability": "Product presentation designed to evoke a sense of premium quality",
+                    "Lifestyle_Fit": "Indicates a product that fits effortlessly into the user's daily routine"
+                  },
+                  "File_url": "https://assets.vogue.com/photos/6526ce939984585d387d8943/3:4/w_640,c_limit/slide_%20(121).jpg"
+                }
+              ]
+          },
+        "destinationProperties": {
+            "headline": "",
+            "text": ""
+        }
+    }
+]
+

@@ -1,0 +1,5 @@
+name: magiclinks
+dependencies:
+  - python=3.9
+  - flask
+  - pip
